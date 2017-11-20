@@ -1,0 +1,52 @@
+#abc
+{
+  background-color : black;
+  
+}
+.nav-item
+{
+  color : white;
+}
+#target
+{
+  line-height: 1.5;
+  color: white;
+  font-famly : "Impact";
+}
+.jumbotron
+{
+  background-color : black;
+}
+#target1
+{
+  border-radius: 50%;
+}
+#target2
+{
+  width : 500px;
+}
+#target3
+{
+  border-radius: 5px;
+  width :490px;
+  height : 258px;
+}
+.list-inline
+{
+  margin-left : 450px;  
+}
+#target4
+{
+  color : white;
+  line-height : 250%;
+}
+.footer {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+
